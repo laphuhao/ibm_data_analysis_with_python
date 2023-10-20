@@ -1,4 +1,4 @@
-Data analysis with Python to build and evaluate data models includes:
+Data Analysis with Python is a course in Data Analyst Specialization of IBM which helps build and evaluate data models including:
 - collecting and importing data 
 - cleaning, preparing & formatting data 
 - data frame manipulation 
