@@ -1,3 +1,6 @@
+La Phú Hào - My major is Fintech at Ho Chi Minh city University of Banking
+--------------------------------------------------------------------------
+
 Data Analysis with Python is a course in Data Analyst Specialization of IBM which helps build and evaluate data models including:
 - collecting and importing data 
 - cleaning, preparing & formatting data 
